@@ -1,0 +1,161 @@
+export const nav = [
+  {
+    id: 1,
+    text: "home",
+    url: "/",
+  },
+  {
+    id: 2,
+    text: "about",
+    url: "/about",
+  },
+  {
+    id: 3,
+    text: "pages",
+    url: "/pages",
+  },
+  {
+    id: 4,
+    text: "blog",
+    url: "/blog",
+  },
+  {
+    id: 5,
+    text: "contact",
+    url: "/contact",
+  },
+]
+export const category = [
+  {
+    id: 1,
+    category: "Life",
+    title: "Stay Calm And Surf",
+    cover: "../images/category/ca1.png",
+  },
+  {
+    id: 2,
+    category: "Fashion",
+    title: "Becoming a Dragonfly",
+    cover: "../images/category/ca2.png",
+  },
+  {
+    id: 3,
+    category: "Travel",
+    title: "There's always light at the end of the tunnel",
+    cover: "../images/category/ca3.png",
+  },
+  {
+    id: 4,
+    category: "Sport",
+    title: "Stay Calm And Surf",
+    cover: "../images/category/ca4.png",
+  },
+  {
+    id: 5,
+    category: "Fun",
+    title: "There's always light at the end of the tunnel",
+    cover: "../images/category/ca5.png",
+  },
+  {
+    id: 6,
+    category: "Health",
+    title: "Becoming a Dragonfly",
+    cover: "../images/category/ca6.png",
+  },
+  {
+    id: 7,
+    category: "Business",
+    title: "Stay Calm And Surf",
+    cover: "../images/category/ca7.png",
+  },
+  {
+    id: 8,
+    category: "Technology",
+    title: "There's always light at the end of the tunnel",
+    cover: "../images/category/ca8.png",
+  },
+]
+export const blog = [
+  {
+    id: 1,
+    title: "KICKSTART YOUR DAY WITH STYLE",
+    desc: "Starting your day off on the right foot can help set the tone for a productive and fulfilling day ahead. Kickstarting your day with style can help you feel confident, energized, and ready to take on whatever challenges come your way.",
+    category: "Fashion",
+    cover: "../images/blogs/b1.jpg",
+    date: "APRIL 05, 2023",
+  },
+
+  {
+    id: 2,
+    title: "FLAUNT YOUR FASHION THIS SUMMER",
+    desc: "Summer is a great time to experiment with fashion and show off your personal style. Whether you prefer bright colors, bold prints, or more classic looks, there are many ways to flaunt your fashion this summer.",
+    category: "Fashion",
+    cover: "../images/blogs/b2.jpg",
+    date: "MARCH 15, 2023",
+  },
+  {
+    id: 3,
+    title: "ARE YOU CAPTURING WHAT YOU ARE SEEING?",
+    desc: "In this age of smartphones and digital cameras, it's easier than ever to capture the sights and moments we encounter in our daily lives. However, simply taking a photo or video doesn't necessarily mean that we are truly capturing what we are seeing.",
+    category: "Photography",
+    cover: "../images/blogs/b3.jpg",
+    date: "MARCH 15, 2023",
+  },
+  {
+    id: 4,
+    title: "POTTERY MAGIC STILL SURVIVES IN THIS AGE",
+    desc: "Pottery has been a form of creative expression and practical craft for thousands of years, and the magic of pottery still survives in this age. While there are now many modern materials available for making bowls, vases, and other objects, pottery remains a popular art form and practical skill.",
+    category: "Pottery",
+    cover: "../images/blogs/b4.jpg",
+    date: "February 20, 2023",
+  },
+  {
+    id: 5,
+    title: "LEARN BEAUTIFUL KNITTING",
+    desc: "Knitting is a popular hobby that involves using yarn and needles to create beautiful and intricate designs. Learning how to knit can be a fun and rewarding experience, as it allows you to create handmade gifts, clothing, and accessories.",
+    category: "Knitting",
+    cover: "../images/blogs/b5.jpg",
+    date: "February 20, 2023",
+  },
+  {
+    id: 6,
+    title: "FIVE MINUTE COOKS",
+    desc: "Five minute cooks refer to quick and easy recipes that can be prepared in just a few minutes, making them ideal for busy individuals or those who want a quick meal without spending hours in the kitchen. These recipes can include simple and healthy options like salads, wraps, smoothies, and sandwiches.",
+    category: "Cooking",
+    cover: "../images/blogs/b6.jpg",
+    date: "February 20, 2023",
+  },
+  {
+    id: 7,
+    title: "TEN WONDERFUL DISHES YOU NEED TO TRY",
+    desc: "Food is an essential part of our culture and identity, and trying new dishes can be a great way to explore different cuisines and flavors. Here are ten wonderful dishes from around the world that you need to try",
+    category: "Cooking",
+    cover: "../images/blogs/b7.jpg",
+    date: "February 20, 2023",
+  },
+  {
+    id: 8,
+    title: "IS JUNK FOOD KILLING YOU?",
+    desc: "Consuming junk food in excess can have negative effects on your health and well-being. Junk food is typically high in calories, sugar, sodium, and unhealthy fats, and lacks essential nutrients such as vitamins, minerals, and fiber.",
+    category: "Cooking",
+    cover: "../images/blogs/b8.jpg",
+    date: "February 20, 2023",
+  },
+  {
+    id: 9,
+    title: "ARE YOU READY FOR DJ NIGHT?",
+    desc: "Getting ready for a DJ night can be an exciting and fun experience. Whether you are going out to a club or hosting a party at home, there are a few things to keep in mind to ensure that you are fully prepared for the event.First, make sure you have the right attire for the occasion. Dressing comfortably and appropriately for the venue and music genre can help you enjoy the night to its fullest.",
+    category: "Music",
+    cover: "../images/blogs/b9.jpg",
+    date: "February 20, 2023",
+  },
+
+  {
+    id: 10,
+    title: "DEEP SECRETS OF YOUR GADGETS",
+    desc: "Our gadgets, such as smartphones, laptops, and tablets, are complex devices that contain many layers of technology, hardware, and software. They are designed to provide us with a range of functionalities, from communication and entertainment to productivity and health tracking.However, beneath the surface of our gadgets lies a world of deep secrets that we may not be aware of. These secrets can range from hidden features and settings to potential security risks and privacy concerns.",
+    category: "Fashion",
+    cover: "../images/blogs/b10.jpg",
+    date: "February 20, 2023",
+  },
+]
